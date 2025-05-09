@@ -1,0 +1,4 @@
+This folder contains the raw and cleaned datasets used for the Power BI dashboard.  
+- Source: [describe briefly]
+- Format: CSV
+- Columns: Calendar, customers, Product, region, transactions etc.
