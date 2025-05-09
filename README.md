@@ -6,7 +6,7 @@
   **Features**
   List key features or highlights of the project.
   Example:
-  Interactive filters (date range, region, product category)
-  Sales trend analysis (monthly/quarterly/yearly)
-  KPI cards for key metrics (total sales, profit, top products)
-  Regional performance comparison (maps, bar charts)
+  Interactive filters (date range, region, product category),
+  Sales trend analysis (monthly/quarterly/yearly),
+  KPI cards for key metrics (total sales, profit, top products),
+  Regional performance comparison (maps, bar charts).
